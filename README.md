@@ -6,4 +6,7 @@ The project consists of 3 stages :-
 
 Text Based Instruction 
 
-architecture-
+-
+
+<a href="https://drive.google.com/file/d/1PS4XiHr7IX6V1VgIKsT4XhWTi_cU2NNQ/view?usp=sharing" target="_blank">architecture</a>
+
